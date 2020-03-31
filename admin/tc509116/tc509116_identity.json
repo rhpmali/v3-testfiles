@@ -1,7 +1,7 @@
 {
     "kind": "Identity",
     "apiVersion": "v1",
-    "metadata": {"name": "anypassword:509116_user"},
-    "providerName": "anypassword",
+    "metadata": {"name": "htpassidp-11530:509116_user"},
+    "providerName": "htpassidp-11530",
     "providerUserName": "509116_user"
 }
